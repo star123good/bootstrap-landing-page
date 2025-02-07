@@ -5,21 +5,20 @@
   color: #ffffff;
 }
 .macrofit-hero {
-  background-image: url('../images/fb6df10ff1d889e11e2799ac04952ea8.jfif');
-  /* background-color: #333333; */
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
-  z-index: -1;
-  position: absolute;
-  top: 0;
-  min-height: 785px;
-  padding: 240px 80px 20px;
   display: flex;
   justify-content: space-between;
   flex-direction: column;
+  position: relative;
 }
 .macrofit-hero * {
   color: #FCFDFE;
+}
+.macrofit-hero-back {
+  position: absolute;
+  z-index: -1;
+}
+.macrofit-hero-content {
+  padding: 150px 80px 20px;
 }
 .macrofit-hero-btn {
   background-color: #F12B2D;
