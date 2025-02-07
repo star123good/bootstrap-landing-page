@@ -29,3 +29,12 @@
   margin-bottom: 30px;
   border-width: 0;
 }
+#myTab {
+  margin-top: 80px;
+}
+#myTabContent {
+  padding: 70px 40px;
+}
+#myTabContent button{
+  margin-top: 30px;
+}
