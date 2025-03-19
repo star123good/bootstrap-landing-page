@@ -1,0 +1,2 @@
+import{W as r,X as t}from"./router-D2A3v33YTGz9.js";import{bc as n}from"./common-BQgXWrz2O5Bt.js";import{bB as f,bC as e}from"./render-common-CBDTO_er9s96.js";function P({children:a}){var o=r(1);try{var s=r(1);try{const[i]=n(f);return t.jsx(e,{i18n:i.translations,children:a})}finally{s.f()}}finally{o.f()}}export{P};
+//# sourceMappingURL=https://web-sourcemaps.shopify.io/v1/en/PolarisProvider-DWVClW5DJF-3.js.map

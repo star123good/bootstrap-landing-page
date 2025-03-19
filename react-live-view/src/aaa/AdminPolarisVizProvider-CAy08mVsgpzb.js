@@ -1,0 +1,2 @@
+import{W as o,X as l}from"./router-D2A3v33YTGz9.js";import{s as d}from"./render-common-CBDTO_er9s96.js";import{P}from"./PolarisVizProvider-DgM3nCcwdhFE.js";function u({children:e,themes:i,theme:t}){var a=o(1);try{var s=o(1);try{const n=d(),f=(r,m)=>{n.notify(new Error(`AdminPolarisVizProvider error: ${r}`),{severity:"error",metaData:{error:r,errorInfo:m}})};return l.jsx(P,{defaultTheme:t,themes:i,onError:f,children:e})}finally{s.f()}}finally{a.f()}}export{u as A};
+//# sourceMappingURL=https://web-sourcemaps.shopify.io/v1/en/AdminPolarisVizProvider-CAy08mVsgpzb.js.map

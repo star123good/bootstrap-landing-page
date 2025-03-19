@@ -1,0 +1,2 @@
+import{b6 as e,cE as n}from"./common-BQgXWrz2O5Bt.js";const s={experimental:!1,usesSortableLibrary:!1,usesBottomSheet:!1,disablesRightSidebar:!1,denseUIEnabled:!1},a=e.createContext(s);function l({features:t,children:r}){const o=e.useMemo(()=>({...s,...t}),[t]);return n.createElement(a.Provider,{value:o},r)}function c(){return e.useContext(a)}export{l as F,c as u};
+//# sourceMappingURL=https://web-sourcemaps.shopify.io/v1/en/FeaturesProvider-B8znbGAyvWRg.js.map
