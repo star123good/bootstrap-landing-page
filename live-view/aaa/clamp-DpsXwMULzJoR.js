@@ -1,0 +1,2 @@
+import{w as C}from"./common-BQgXWrz2O5Bt.js";import{h as r}from"./router-D2A3v33YTGz9.js";var s,m;function v(){if(m)return s;m=1;function d(a,n,t){return a===a&&(t!==void 0&&(a=a<=t?a:t),n!==void 0&&(a=a>=n?a:n)),a}return s=d,s}var c,e;function q(){if(e)return c;e=1;var d=v(),a=r();function n(t,i,f){return f===void 0&&(f=i,i=void 0),f!==void 0&&(f=a(f),f=f===f?f:0),i!==void 0&&(i=a(i),i=i===i?i:0),d(a(t),i,f)}return c=n,c}var u=q();const h=C(u);export{h as c};
+//# sourceMappingURL=https://web-sourcemaps.shopify.io/v1/en/clamp-DpsXwMULzJoR.js.map

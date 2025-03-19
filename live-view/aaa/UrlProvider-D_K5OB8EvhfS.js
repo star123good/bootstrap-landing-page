@@ -1,0 +1,2 @@
+import{W as n,X as u,cX as f}from"./router-D2A3v33YTGz9.js";import{b6 as s,dd as i}from"./common-BQgXWrz2O5Bt.js";import{U as l}from"./context-C0sJ-FDa3AdH.js";function p({children:t}){var r=n(1);try{var e=n(1);try{const a=c();return u.jsx(l.Provider,{value:new f(a),children:t})}finally{e.f()}}finally{r.f()}}function c(){const t=s.useContext(i),[r,e]=s.useState();return s.useEffect(()=>{t==null||t.subscribe([],(a,{locale:o})=>{e(o)})},[t]),r}export{p as U};
+//# sourceMappingURL=https://web-sourcemaps.shopify.io/v1/en/UrlProvider-D_K5OB8EvhfS.js.map
